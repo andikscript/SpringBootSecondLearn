@@ -1,1 +1,1 @@
-# SpringBootSecondLearn
+# Spring Boot Web Service REST API JpaRepository
